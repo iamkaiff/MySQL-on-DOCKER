@@ -1,5 +1,6 @@
-MySQL on Docker
+MySQL on Docker and Connect it with DBVisualizer
 
+Phase-1
 
 In this project we are going to use MySQL on Docker platform.
 
@@ -10,19 +11,52 @@ Installation Process-     In the installation process of Docker Toolbox we choos
 2.Kinematics(Alpha)
 
 
+
+
 On clicking the Docker Quickstart icon the initializing process will get started when all the processing will complete.This window will open -
 
 
 After this pull the images of MySQL on Docker.
 
 
+
 When all the images pulled completely then by using this particular command we can open our mysql database.
+
 
 
 Now the MySQL database is completely ready to work.
 
 
+
+
+
+ 
+Phase-2
+Now after creating database in server side we will going to attach with a client side application i.e DBVisualizer with using suitable API.The API which we are going to use in this article is Apache XAMPP.
+
+After installing the Apache XAMPP we will going to download DBVisualizer.
+
+
+
+Then we have to open the Apache XAMPP and Start the MySQL button.
+
+
+
+
+Now we will open DBVisualizer and then configure all the necessary details and then
+
+ 
+
+To see if all the configuration which we done is correct or not we have to ping the server.
+
+
+            
+Now, finally we will do our MySQL queries on it .
+
+
+
 So that’s all for now.This were the main steps for running MySQL on Docker Toolbox particularly on Windows Home.
+
  
 
 
