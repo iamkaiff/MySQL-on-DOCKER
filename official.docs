@@ -1,0 +1,31 @@
+MySQL on Docker
+
+
+In this project we are going to use MySQL on Docker platform.
+
+The prerequisite to install Docker is that we must have Windows Pro version in our system.But for Windows Home version we will use Docker Toolbox.You  can download the Docker Toolbox .exe file from this link-https://docs.docker.com/toolbox/toolbox_install_windows/
+
+Installation Process-     In the installation process of Docker Toolbox we choose the .exe file and start the installation process while installing the Docker Toolbox we must allow all the permissions.After successful installation we can see that  there are two shortcuts are created automatically.
+1.Docker Quickstart
+2.Kinematics(Alpha)
+
+
+On clicking the Docker Quickstart icon the initializing process will get started when all the processing will complete.This window will open -
+
+
+After this pull the images of MySQL on Docker.
+
+
+When all the images pulled completely then by using this particular command we can open our mysql database.
+
+
+Now the MySQL database is completely ready to work.
+
+
+So that’s all for now.This were the main steps for running MySQL on Docker Toolbox particularly on Windows Home.
+ 
+
+
+
+
+            
